@@ -13,4 +13,5 @@
      
 
 
-![]()
+![](https://github.com/arukin/30092025/blob/main/Lab1/JPG/100.jpg)
+
